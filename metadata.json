@@ -1,0 +1,7 @@
+{
+  "name": "Rail Standards Revision",
+  "description": "An expert engineering revision tool for Network Rail standards, featuring AI Q&A, flashcards, and interactive quizzes with direct PDF referencing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
